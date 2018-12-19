@@ -1,3 +1,4 @@
+# convert the number into string, and check if the string is a palindrome
 class Solution:
     def isPalindrome(self, x):
         """
@@ -13,4 +14,10 @@ class Solution:
         return True
 
 a = Solution()
-print(a.isPalindrome(-101))
+print(a.isPalindrome(101))
+
+
+
+
+
+
